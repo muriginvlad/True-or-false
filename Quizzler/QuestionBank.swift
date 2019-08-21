@@ -22,7 +22,6 @@ class QuestionBank {
         list.append(Question(text: "Голубые розы растут только в Китае.", correctAnswer: false))
         list.append(Question(text: "На вершине Эвереста растут цветы.", correctAnswer: false))
         list.append(Question(text: "Отправляясь на обед, самка бегемота находит няньку для своего детеныша.", correctAnswer: true))
-        list.append(Question(text: "Черная пантера действительно существует.", correctAnswer: true))
         list.append(Question(text: "Верблюды во время странствий по пустыне хранят запас воды в своих горбах.", correctAnswer: false))
         list.append(Question(text: "В Африке водятся мухи-людоеды.", correctAnswer: true))
         list.append(Question(text: "Кобра танцует под звуки дудочки факира.", correctAnswer: false))
