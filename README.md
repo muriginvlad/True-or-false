@@ -9,10 +9,10 @@
 
 
 
-Вы можете легко добавить свои вопросы в файл - "QuestionBank.swift" 
+**Вы можете легко добавить свои вопросы в файл - "QuestionBank.swift"**
 
 Формат добавления:
 
- list.append(Question(text: "Черная пантера действительно существует.", correctAnswer: true))
+`list.append(Question(text: "Черная пантера действительно существует.", correctAnswer: true))`
  
- После  "text:" пишите свой вопрос или утверждение, а в  "correctAnswer:" указываете верно (true) ли оно или нет (false).
+ После  `text:` пишите свой вопрос или утверждение, а в  `correctAnswer:` указываете верно (true) ли оно или нет (false).
